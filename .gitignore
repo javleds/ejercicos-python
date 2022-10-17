@@ -1,4 +1,4 @@
 bin/
 include/
 lib/
-pyvenv.cnf
+pyvenv.cfg
