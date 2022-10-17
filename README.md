@@ -11,7 +11,7 @@ realizar ejercicios de programación basados en python.
 
 ## Preparar el proyecto
 
-1. Clonar el proyecto de github: `git clone `.
+1. Clonar el proyecto de github: `git clone https://github.com/javleds/ejercicos-python.git`.
 2. Entrar a la carpeta del proyecto `cd {project_dir}`.
 3. Crear ambiente virtual: `python3 -m venv .`.
 4. Activar virtual con: `source ./bin/activate`.
