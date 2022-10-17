@@ -28,11 +28,8 @@ de ejecutar el archivos usando python, ejemplo:
 python ./src/edad.py
 ```
 
-Si vemos el mensaje `Todo es correcto, ¡buen trabajo! :D`
-
-Quiere decir que el ejercicio se completo correctamente, 
-en caso de no ver este mensaje, quiere decir que 
-debemos realizar algunos cambios para cumplir el objetivo 
+Si vemos el mensaje `Todo es correcto, ¡buen trabajo! :D` quiere decir que el ejercicio se completo correctamente, 
+en caso de no ver este mensaje, quiere decir que debemos realizar algunos cambios para cumplir el objetivo 
 de cada ejercicio.
 
 Si no se logra resolver el ejercicio, 
